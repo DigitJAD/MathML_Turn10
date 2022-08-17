@@ -1,0 +1,11 @@
+C:\Users\TastyyLumpia\Desktop\Game Dev\General C# Projects\Microsoft Turn 10 Studios\MathXML\MathML_Jerry_Digdigan\MathML_Jerry_Digdigan\bin\Debug\MathML_Jerry_Digdigan.exe.config
+C:\Users\TastyyLumpia\Desktop\Game Dev\General C# Projects\Microsoft Turn 10 Studios\MathXML\MathML_Jerry_Digdigan\MathML_Jerry_Digdigan\bin\Debug\MathML_Jerry_Digdigan.exe
+C:\Users\TastyyLumpia\Desktop\Game Dev\General C# Projects\Microsoft Turn 10 Studios\MathXML\MathML_Jerry_Digdigan\MathML_Jerry_Digdigan\bin\Debug\MathML_Jerry_Digdigan.pdb
+C:\Users\TastyyLumpia\Desktop\Game Dev\General C# Projects\Microsoft Turn 10 Studios\MathXML\MathML_Jerry_Digdigan\MathML_Jerry_Digdigan\obj\Debug\MathML_Jerry_Digdigan.csproj.AssemblyReference.cache
+C:\Users\TastyyLumpia\Desktop\Game Dev\General C# Projects\Microsoft Turn 10 Studios\MathXML\MathML_Jerry_Digdigan\MathML_Jerry_Digdigan\obj\Debug\MathML_Jerry_Digdigan.csproj.SuggestedBindingRedirects.cache
+C:\Users\TastyyLumpia\Desktop\Game Dev\General C# Projects\Microsoft Turn 10 Studios\MathXML\MathML_Jerry_Digdigan\MathML_Jerry_Digdigan\obj\Debug\MathML_Jerry_Digdigan.csproj.CoreCompileInputs.cache
+C:\Users\TastyyLumpia\Desktop\Game Dev\General C# Projects\Microsoft Turn 10 Studios\MathXML\MathML_Jerry_Digdigan\MathML_Jerry_Digdigan\obj\Debug\MathML_Jerry_Digdigan.exe
+C:\Users\TastyyLumpia\Desktop\Game Dev\General C# Projects\Microsoft Turn 10 Studios\MathXML\MathML_Jerry_Digdigan\MathML_Jerry_Digdigan\obj\Debug\MathML_Jerry_Digdigan.pdb
+C:\Users\TastyyLumpia\Desktop\Game Dev\General C# Projects\Microsoft Turn 10 Studios\MathXML\MathML_Jerry_Digdigan\MathML_Jerry_Digdigan\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TastyyLumpia\Desktop\Game Dev\General C# Projects\Microsoft Turn 10 Studios\MathXML\MathML_Jerry_Digdigan\MathML_Jerry_Digdigan\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TastyyLumpia\Desktop\Game Dev\General C# Projects\Microsoft Turn 10 Studios\MathXML\MathML_Jerry_Digdigan\MathML_Jerry_Digdigan\obj\Debug\MathML_Jerry_Digdigan.csproj.CopyComplete
